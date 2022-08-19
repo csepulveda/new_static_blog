@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://csepulveda.io
+
+# Sitemaps
+Sitemap: https://csepulveda.io/sitemap.xml
